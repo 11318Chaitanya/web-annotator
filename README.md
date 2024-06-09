@@ -57,7 +57,7 @@ To delete an annotation, click the delete icon.
 - `popup.js`: The JavaScript file that handles interactions in the popup.
 - `background.js`: The background script for handling extension events.
 - `content.js`: The content script that interacts with web pages.
-- `style.css`: The CSS file for styling the popup and annotations.
+- `mycss.css`: The CSS file for styling the popup and annotations.
 - `images/`: Directory containing icon images for the extension.
 
 
